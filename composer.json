@@ -1,9 +1,9 @@
 {
-    "name": "tomonoriishizaka/mandrill-cakephp-plugin",
+    "name": "eshi-international/mandrill-cakephp-plugin",
     "description": "Mandrill CakePHP plugin",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "mandrill", "api"],
-    "homepage": "https://github.com/TomonoriIshizaka/Mandrill-CakePHP-plugin",
+    "homepage": "https://github.com/eshi-international/Mandrill-CakePHP-plugin",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
